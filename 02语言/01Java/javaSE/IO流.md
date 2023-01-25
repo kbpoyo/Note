@@ -1,0 +1,73 @@
+- 输入输出流：[JAVA流式输入/输出原理](obsidian://booknote?type=annotation&book=%E7%8B%82%E7%A5%9E%E8%AF%B4%E5%85%A8%E9%83%A8%E7%AC%94%E8%AE%B0%E5%86%85%E5%AE%B9/10%E3%80%81JavaSE%EF%BC%9AIO%E6%B5%81.pdf&id=6deecd0b-3265-7de7-fdf3-822b6e34af95&page=1&rect=111.613,755.859,304.593,780.434)
+	- 字节流
+		- **InputStream**
+		- **OutputStream**
+	- 字符流
+		- **Reader**
+		- **Writer**
+- 节点流
+	- File: 
+		- 字节流
+			- **FileInputStream**
+			- **FileOutputStream**
+		- 字符流
+			- **FileReader**
+			- **FileWriter**
+	- Memory Array
+		- 字节流
+			- **ByteArrayInputStream**
+			- **ByteArrayOutputStream**
+		- 字符流
+			- **CharArrayReader**
+			- **CharArrayWriter**
+	- Memory String
+		- 字符流
+			- **StringReader**
+			- **StringWriter**
+	- Pipe: 
+		- 字节流
+			- **PipedInputStream**
+			- **PipedOutputStream**
+		- 字符流
+			- **PipedReader**
+			- **PipedWriter**
+- 处理流
+	- Buffering：
+		- 字节流
+			- **BufferedInputStream**
+			- **BuﬀeredOutputStream**
+		- 字符流
+			- **BuﬀeredReader**
+			- **BuﬀeredWriter**
+	- Filtering：
+		- 字节流
+			- **FilterInputStream**
+			- **FilterOutputStream**
+		- 字符流
+			- **FilterReader**
+			- **FilterWriter**
+	- Object Serialization：
+		- 字节流
+			- **ObjectInputStream**
+			- **ObjectOutputStream**
+	- Data conversion：
+		- 字节流
+			- **DataInputStream**
+			- **DataOutputStream**
+	- Counting：
+		- 字节流
+			- **LineNumberInputStream**
+		- 字符流
+			- **LineNumberReader**
+	- Peeking ahead：
+		- 字节流
+			- **PushbackInputStream**
+		- 字符流
+			- **PusbackReader**
+	- Printing：
+		- 字节流
+			- **PrintStream**
+		- 字符流
+			- **PrintWriter**
+
+![](http://imgs.kbpoyo.top/imgs/IO流_202207032319130.png)

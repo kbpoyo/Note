@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "0c70440904a880fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ede0cc0ebb2ceeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da8420dac4b7fa45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01计科/操作系统/1.基础概念/程序的加载及运行.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75d03f945e2f936a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ddd667145b8b937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef98944f32ce1798",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9447f428c10e5f68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b335acd97ad826c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "27cc3c4cf6755114",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc5c2ec596fce6dd",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "96b74044ffc4888e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01计科/操作系统/1.基础概念/ELF文件解析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e62046f92e7188ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "da3889382f129cc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef386eae6199262c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01计科/操作系统/1.基础概念/程序的加载及运行.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "42c8768800e7eb96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01计科/操作系统/1.基础概念/程序的加载及运行.md"
+              }
+            }
+          },
+          {
+            "id": "49e6a59a0a1641cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01计科/操作系统/1.基础概念/程序的加载及运行.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-booknote-plugin:书库": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "canvas:Create new canvas": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "command-palette:打开命令面板": true,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true
+    }
+  },
+  "active": "da8420dac4b7fa45",
+  "lastOpenFiles": [
+    "01计科/操作系统/1.基础概念/函数的执行流程.md",
+    "01计科/操作系统/1.基础概念/程序的加载及运行.md",
+    "01计科/操作系统/1.基础概念/CPU寄存器作用.md",
+    "01计科/操作系统/1.基础概念/ELF文件解析.md",
+    "Excalidraw/Drawing 2023-01-21 16.45.17.excalidraw.md",
+    "02语言/03Cpp/基础/内存对齐.md",
+    "02语言/03Cpp/框架/CMake手册.md",
+    "02语言/03Cpp/框架/Boost/Json.md",
+    "inbox/待分类链接.md",
+    "02语言/03Cpp/框架/Google Test：Cpp单元测试框架.md"
+  ]
+}

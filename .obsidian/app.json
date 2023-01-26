@@ -1,0 +1,22 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "fileSortOrder": "alphabetical",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "inbox/attachments",
+  "strictLineBreaks": true,
+  "trashOption": "local",
+  "showLineNumber": true,
+  "promptDelete": false
+}

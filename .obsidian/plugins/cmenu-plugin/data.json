@@ -1,0 +1,105 @@
+{
+  "aestheticStyle": "default",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:editor:toggle-bold",
+      "name": "cMenu: Toggle bold",
+      "icon": "bold-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "cmenu-plugin:underline",
+      "name": "cMenu: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
+      "id": "cmenu-plugin:superscript",
+      "name": "cMenu: Toggle superscript",
+      "icon": "superscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:subscript",
+      "name": "cMenu: Toggle subscript",
+      "icon": "subscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-code",
+      "name": "cMenu: Toggle code",
+      "icon": "code-glyph"
+    },
+    {
+      "id": "cmenu-plugin:codeblock",
+      "name": "cMenu: Toggle codeblock",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-highlight",
+      "name": "cMenu: Toggle highlight",
+      "icon": "highlight-glyph"
+    },
+    {
+      "id": "editor:open-search-replace",
+      "name": "在当前笔记中查找并替换",
+      "icon": "search-glyph",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "H"
+        }
+      ]
+    },
+    {
+      "id": "editor:attach-file",
+      "name": "插入附件",
+      "icon": "image-glyph"
+    },
+    {
+      "id": "editor:fold-all",
+      "name": "折叠所有标题和列表",
+      "icon": "compress-glyph",
+      "allowPreview": true
+    },
+    {
+      "id": "editor:unfold-all",
+      "name": "展开所有标题和列表",
+      "icon": "enlarge-glyph",
+      "allowPreview": true
+    },
+    {
+      "id": "editor:insert-callout",
+      "name": "Insert callout",
+      "icon": "quote-glyph"
+    },
+    {
+      "id": "editor:set-heading",
+      "name": "小标题",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "markdown-table-editor:markdown-table-editor-open-horizontal",
+      "name": "Markdown Table Editor: Open Editor (Below the Active View)",
+      "icon": "bracket-glyph"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed",
+      "name": "Excalidraw: 新建绘图（在新面板），并插入（嵌入）到当前文档",
+      "icon": "dice"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 2,
+  "cMenuNumRows": 12
+}

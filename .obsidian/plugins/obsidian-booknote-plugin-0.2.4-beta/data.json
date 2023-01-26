@@ -1,0 +1,29 @@
+{
+  "bookPath": "F:\\kbpoyo的文档\\BookLib",
+  "bookSettingPath": "booknote",
+  "defaultVaultName": "BookLib",
+  "useLocalWebViewerServer": true,
+  "webviewerRootPath": "F:\\software\\common_tools\\webviewer",
+  "webviewerLocalPort": "1448",
+  "webviewerExternalServerAddress": "https://relaxed-torvalds-5a5c77.netlify.app",
+  "openAllBookBySystem": false,
+  "openOfficeBookBySystem": false,
+  "selectionAnnotationLinkTemplate": "[{{content}}]({{url}})",
+  "regionAnnotationLinkTemplate": "![[{{img}}#center|{{width}}]]",
+  "currentPageLinkTemplage": "[**P{{page}}**]({{url}})",
+  "fixedAnnotImageZoom": true,
+  "fixedAnnotImageZoomValue": "2",
+  "addClickEventForAnnotImage": true,
+  "autoOpenProjectView": true,
+  "copyNewAnnotationLink": true,
+  "bookTreeSortType": 0,
+  "bookTreeSortAsc": true,
+  "currentBookVault": "default",
+  "bookVaults": [
+    {
+      "name": "LibraryOfOb",
+      "path": "C:\\Users\\ASUS\\Documents\\kbpoyo的文档\\文档\\MarkDown\\LibraryOfOb"
+    }
+  ],
+  "zoteroImportPath": ""
+}

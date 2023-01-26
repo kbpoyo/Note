@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "程序的加载及运行",
+      "path": "01计科/操作系统/1.基础概念/程序的加载及运行.md"
+    },
+    {
+      "basename": "函数的执行流程",
+      "path": "01计科/操作系统/1.基础概念/函数的执行流程.md"
+    },
+    {
+      "basename": "CPU寄存器作用",
+      "path": "01计科/操作系统/1.基础概念/CPU寄存器作用.md"
+    },
+    {
+      "basename": "ELF文件解析",
+      "path": "01计科/操作系统/1.基础概念/ELF文件解析.md"
+    },
+    {
+      "basename": "Drawing 2023-01-21 16.45.17.excalidraw",
+      "path": "Excalidraw/Drawing 2023-01-21 16.45.17.excalidraw.md"
+    },
+    {
+      "basename": "CMake手册",
+      "path": "02语言/03Cpp/框架/CMake手册.md"
+    },
+    {
+      "basename": "待分类链接",
+      "path": "inbox/待分类链接.md"
+    },
+    {
+      "basename": "Google Test：Cpp单元测试框架",
+      "path": "02语言/03Cpp/框架/Google Test：Cpp单元测试框架.md"
+    },
+    {
+      "basename": "算法4：确定有限状态自动机版本的KMP算法 2022-11-28 13.45.14.excalidraw",
+      "path": "inbox/attachments/算法4：确定有限状态自动机版本的KMP算法 2022-11-28 13.45.14.excalidraw.md"
+    },
+    {
+      "basename": "算法4：确定有限状态自动机版本的KMP算法 2022-11-28 17.07.06.excalidraw",
+      "path": "inbox/attachments/算法4：确定有限状态自动机版本的KMP算法 2022-11-28 17.07.06.excalidraw.md"
+    },
+    {
+      "basename": "Pasted image 20220818201120",
+      "path": "inbox/attachments/Pasted image 20220818201120.png"
+    },
+    {
+      "basename": "算法4：确定有限状态自动机版本的KMP算法",
+      "path": "01计科/数据结构与算法/算法4：确定有限状态自动机版本的KMP算法.md"
+    },
+    {
+      "basename": "Pasted image 20221128132314",
+      "path": "inbox/attachments/Pasted image 20221128132314.png"
+    },
+    {
+      "basename": "力扣刷题分类",
+      "path": "04算法/力扣刷题分类.md"
+    },
+    {
+      "basename": "算法好文",
+      "path": "04算法/算法文章/算法好文.md"
+    },
+    {
+      "basename": "Lua基础",
+      "path": "02语言/02Lua/Lua基础.md"
+    },
+    {
+      "basename": "什么是 Error Bar",
+      "path": "05数据分析/什么是 Error Bar.md"
+    },
+    {
+      "basename": "MySql基础设置",
+      "path": "02语言/01Java/javaWeb/数据库基础/MySql基础设置.md"
+    },
+    {
+      "basename": "数据库基础概念",
+      "path": "02语言/01Java/javaWeb/数据库基础/数据库基础概念.md"
+    },
+    {
+      "basename": "AOP记录日志",
+      "path": "02语言/01Java/springboot/AOP记录日志.md"
+    },
+    {
+      "basename": "Controller层就该这么写",
+      "path": "02语言/01Java/springboot/Controller层就该这么写.md"
+    },
+    {
+      "basename": "[Controller就该这么写",
+      "path": "inbox/[Controller就该这么写.md"
+    },
+    {
+      "basename": "springboot参数校验",
+      "path": "02语言/01Java/springboot/springboot参数校验.md"
+    },
+    {
+      "basename": "springboot整合jwt",
+      "path": "02语言/01Java/springboot/springboot整合jwt.md"
+    },
+    {
+      "basename": "多线程编程",
+      "path": "02语言/01Java/javaSE/多线程编程.md"
+    },
+    {
+      "basename": "集合",
+      "path": "02语言/01Java/javaSE/集合.md"
+    },
+    {
+      "basename": "网络编程",
+      "path": "02语言/01Java/javaSE/网络编程.md"
+    },
+    {
+      "basename": "IO流",
+      "path": "02语言/01Java/javaSE/IO流.md"
+    },
+    {
+      "basename": "常用类",
+      "path": "02语言/01Java/javaSE/常用类.md"
+    },
+    {
+      "basename": "LeetCode-515-在每个树行中找最大值",
+      "path": "04算法/算法题/二叉树/LeetCode-515-在每个树行中找最大值.md"
+    },
+    {
+      "basename": "浏览器生成消息",
+      "path": "01计科/计算机网络/网络是怎样连接的/浏览器生成消息.md"
+    },
+    {
+      "basename": "总览",
+      "path": "01计科/计算机网络/网络是怎样连接的/总览.md"
+    },
+    {
+      "basename": "Obsidian基础",
+      "path": "03软件教程/obsidian/Obsidian基础.md"
+    },
+    {
+      "basename": "MindMap Of Markdown超级教程",
+      "path": "03软件教程/markdown/MindMap Of Markdown超级教程.md"
+    },
+    {
+      "basename": "(生成HTTP请求消息)浏览器生成消息",
+      "path": "inbox/(生成HTTP请求消息)浏览器生成消息.md"
+    },
+    {
+      "basename": "Maven基础",
+      "path": "02语言/01Java/javaWeb/Maven/Maven基础.md"
+    },
+    {
+      "basename": "DataView",
+      "path": "03软件教程/obsidian/DataView.md"
+    },
+    {
+      "basename": "booknote插件",
+      "path": "03软件教程/obsidian/booknote插件.md"
+    },
+    {
+      "basename": "Sql基础",
+      "path": "02语言/01Java/javaWeb/数据库基础/Sql基础.md"
+    },
+    {
+      "basename": "Sql高级",
+      "path": "02语言/01Java/javaWeb/数据库基础/Sql高级.md"
+    },
+    {
+      "basename": "obsidin",
+      "path": "test/obsidin.md"
+    },
+    {
+      "basename": "Mybatis基础",
+      "path": "02语言/01Java/javaWeb/Mybatis/Mybatis基础.md"
+    },
+    {
+      "basename": "Maven高级",
+      "path": "02Java/javaWeb/Maven/Maven高级.md"
+    },
+    {
+      "basename": "SpringMVC_day01",
+      "path": "02Java/ssm/SpringMvc/SpringMVC_day01.md"
+    },
+    {
+      "basename": "SpringMVC_day02",
+      "path": "02Java/ssm/SpringMvc/SpringMVC_day02.md"
+    },
+    {
+      "basename": "Spring_day02",
+      "path": "02Java/ssm/Spring/Spring_day02.md"
+    },
+    {
+      "basename": "1630771987325",
+      "path": "02Java/javaWeb/Maven/assets/1630771987325.png"
+    },
+    {
+      "basename": "1630773580067",
+      "path": "02Java/javaWeb/Maven/assets/1630773580067.png"
+    },
+    {
+      "basename": "1630774917743",
+      "path": "02Java/javaWeb/Maven/assets/1630774917743.png"
+    },
+    {
+      "basename": "1630774696344",
+      "path": "02Java/javaWeb/Maven/assets/1630774696344.png"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

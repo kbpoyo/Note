@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da8420dac4b7fa45",
+            "id": "7c595372558a4c31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01计科/操作系统/1.基础概念/程序的加载及运行.md",
+                "file": "01计科/操作系统/KBOS/KBOS引导流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,12 +93,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44e03f311f9fdc74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "e62046f92e7188ed",
@@ -114,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01计科/操作系统/1.基础概念/程序的加载及运行.md",
+                "file": "01计科/操作系统/KBOS/KBOS引导流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01计科/操作系统/1.基础概念/程序的加载及运行.md"
+                "file": "01计科/操作系统/KBOS/KBOS引导流程.md"
               }
             }
           },
@@ -141,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01计科/操作系统/1.基础概念/程序的加载及运行.md",
+                "file": "01计科/操作系统/KBOS/KBOS引导流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,14 +160,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "obsidian-booknote-plugin:书库": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "canvas:Create new canvas": true,
       "markdown-importer:打开 Markdown 格式转换器": true,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "command-palette:打开命令面板": true,
@@ -167,15 +174,39 @@
       "graph:查看关系图谱": true
     }
   },
-  "active": "da8420dac4b7fa45",
+  "active": "7c595372558a4c31",
   "lastOpenFiles": [
+    "01计科/操作系统/KBOS/KBOS引导流程.md.baiduyun.uploading.cfg",
+    "01计科/操作系统/KBOS/未命名.md.baiduyun.uploading.cfg",
+    "01计科/操作系统/KBOS/1.mbr引导程序/编写MBR引导程序.md",
+    "01计科/操作系统/KBOS/KBOS引导流程.md",
+    "01计科/操作系统/KBOS/2.编写loader程序/编写loader程序.md",
+    "01计科/操作系统/1.基础概念/一口气看完45个寄存器 ——x86，x64架构.md",
+    "01计科/操作系统/1.基础概念/ELF文件解析.md",
+    "01计科/操作系统/1.基础概念/CPU寄存器作用.md",
     "01计科/操作系统/1.基础概念/函数的执行流程.md",
     "01计科/操作系统/1.基础概念/程序的加载及运行.md",
-    "01计科/操作系统/1.基础概念/CPU寄存器作用.md",
-    "01计科/操作系统/1.基础概念/ELF文件解析.md",
+    "01计科/操作系统/1.基础概念/【x86】特权级别 CPL , RPL , DPL , IOPL.md",
+    "01计科/操作系统/1.基础概念/CPU寄存器作用.md.baiduyun.uploading.cfg",
+    "01计科/操作系统/1.基础概念/一口气看完45个寄存器 ——x86，x64架构.md.baiduyun.uploading.cfg",
+    "01计科/操作系统/1.基础概念/CPU寄存器的.md.baiduyun.uploading.cfg",
+    "01计科/操作系统/1.基础概念/未命名.md.baiduyun.uploading.cfg",
+    "06英语/TED/P1 2013-10-01 The uncertain location of electrons - George Zaidan and Charles Morto.md",
+    "06英语/TED/P1 2013-10-01 The uncertain location of electrons - George Zaidan and Charles Morto.md.baiduyun.uploading.cfg",
+    "03软件教程/markdown/Markdown超级教程 Obsidian版 2022.5.16.md",
+    "03软件教程/obsidian/Obsidian基础.md",
+    "06英语/TED/未命名.md.baiduyun.uploading.cfg",
+    "06英语/2023-3-8.md",
+    "06英语/TED",
+    "06英语/2023-3-8.md.baiduyun.uploading.cfg",
+    "06英语/未命名.md.baiduyun.uploading.cfg",
+    "06英语/2023-3-7.md",
+    "06英语/2023-3-6.md",
+    "02语言/01Java/javaWeb/数据库基础/MySql基础设置.md",
+    "02语言/01Java/javaWeb/数据库基础/数据库基础概念.md",
+    "02语言/03Cpp/框架/CMake手册.md",
     "Excalidraw/Drawing 2023-01-21 16.45.17.excalidraw.md",
     "02语言/03Cpp/基础/内存对齐.md",
-    "02语言/03Cpp/框架/CMake手册.md",
     "02语言/03Cpp/框架/Boost/Json.md",
     "inbox/待分类链接.md",
     "02语言/03Cpp/框架/Google Test：Cpp单元测试框架.md"

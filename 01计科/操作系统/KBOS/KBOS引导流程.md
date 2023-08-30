@@ -1,0 +1,31 @@
+
+- BIOS
+	- BIOS自检并建立中断向量表
+	- BIOS将系统启动磁盘的0磁头0柱面1扇区的MBR加载到0x7c00处并跳转执行
+- MBR
+	- MBR初始化各个段寄存器为0，在实模式下用平坦模型访问
+	- MBR初始化**esp**寄存器为0x7c00，将0前一段的空闲空间(32kb)用做栈空间
+	- MBR用INT13磁盘中断将2号扇区的loader程序载入到内存的0x8000处
+	- MBR跳转到0x8000处执行16位loader程序
+- 16位Loader程序
+	- 执行内存检测，记录可用ram块的起始地址，大小，和数量到boot_info结构中
+	- 进入保护模式
+		- 关闭中断
+		- 打开A20地址线
+		- 加载临时的全局描述符表gdt_table的地址到GDTR寄存器中
+		- 设置cr0寄存器的第0位PE位为1，打开保护模式
+	- 执行 ljmp 指令远跳转到 （1 << 3）：protect_mode_entry（cs:ip）处执行
+	- protect_mode_entry
+		- 设置ds es fs gs ss段寄存器的值为选择子(2 << 3) 执行第三个段描述符
+		- 执行 jmp $8, $load_kernel 清空cpu16位指令的流水线，执行32位loader程序
+- 32位loader程序
+	- INT13中断从100号扇区读取500个扇区的内核的elf文件到1mb(0x10 0000)处
+	- 解析内核elf文件，将text，data，rodata，bss段加载到内存指定位置，并得到起始指令的地址kernel_entry
+	- 开启分页机制
+		- 声明临时页表，页大小为4mb，映射0~4mb的地址空间
+		- 设置cr4寄存器的**PSE**位为1，使分页大小为4mb
+		- 设置cr3寄存器位临时页表
+		- 设置cr0寄存器的PG位为1，打开分页机制
+	- 压入参数boot_info并跳转到kernel_entry执行内核程序
+- 内核(kernel)程序
+	- 
